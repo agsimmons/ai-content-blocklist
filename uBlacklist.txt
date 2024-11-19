@@ -1,0 +1,10 @@
+---
+name: AI Content Blocklist
+homepage: https://github.com/agsimmons/ai-content-blocklist
+---
+
+# These are all created by the same entity
+*://devcodef1.com/
+*://economatik.com/
+*://onexception.dev/
+*://trycatchdebug.net/
