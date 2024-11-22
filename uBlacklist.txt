@@ -8,3 +8,5 @@ homepage: https://github.com/agsimmons/ai-content-blocklist
 *://economatik.com/
 *://onexception.dev/
 *://trycatchdebug.net/
+
+*://gbtimes.com/
