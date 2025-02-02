@@ -10,3 +10,5 @@ homepage: https://github.com/agsimmons/ai-content-blocklist
 *://trycatchdebug.net/
 
 *://gbtimes.com/
+
+*://glossykitchen.com/
