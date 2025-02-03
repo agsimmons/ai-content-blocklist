@@ -12,3 +12,5 @@ homepage: https://github.com/agsimmons/ai-content-blocklist
 *://gbtimes.com/
 
 *://glossykitchen.com/
+
+*://www.ricearray.org/
