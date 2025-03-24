@@ -14,3 +14,5 @@ homepage: https://github.com/agsimmons/ai-content-blocklist
 *://glossykitchen.com/
 
 *://www.ricearray.org/
+
+*://accountinginsights.org/
