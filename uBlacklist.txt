@@ -16,3 +16,5 @@ homepage: https://github.com/agsimmons/ai-content-blocklist
 *://www.ricearray.org/
 
 *://accountinginsights.org/
+
+*://thetechylife.com/
