@@ -18,3 +18,5 @@ homepage: https://github.com/agsimmons/ai-content-blocklist
 *://accountinginsights.org/
 
 *://thetechylife.com/
+
+*://techrebooter.com/
