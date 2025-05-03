@@ -20,3 +20,6 @@ homepage: https://github.com/agsimmons/ai-content-blocklist
 *://thetechylife.com/
 
 *://techrebooter.com/
+
+*://ittrip.xyz/
+*://*.ittrip.xyz/
