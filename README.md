@@ -1,4 +1,4 @@
-## AI Content Blocklist(s)
+## AI Content Blocklist
 The goal of this project is to create a blocklist (or possibly multiple blocklists) to block AI generated content.
 
 My focus is specifically on websites with AI generated news, answers, etc. I will not be blocking any discussion of AI, AI generated image or video, or any demonstrations of AI generated content that is clearly labeled as such.
