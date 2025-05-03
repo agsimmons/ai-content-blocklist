@@ -3,6 +3,14 @@ The goal of this project is to create a blocklist (or possibly multiple blocklis
 
 My focus is specifically on websites with AI generated news, answers, etc. I will not be blocking any discussion of AI, AI generated image or video, or any demonstrations of AI generated content that is clearly labeled as such.
 
+## How to Use
+1. Install the [uBlacklist browser extension](https://iorate.github.io/ublacklist/docs)
+2. Open the extension settings
+3. If you use a search engine other than Google, make sure to enable it in the `Other search engines` menu
+4. Under `Subscriptions`, press `Add a subscription`
+5. Enter `https://raw.githubusercontent.com/agsimmons/ai-content-blocklist/refs/heads/main/uBlacklist.txt` for the URL
+6. Press `Add`
+
 ## Contributing
 Please submit a pull request or issue if you would like to add any websites to this list. If you think a website was incorrectly added, please create an issue.
 
