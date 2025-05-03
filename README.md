@@ -6,6 +6,8 @@ My focus is specifically on websites with AI generated news, answers, etc. I wil
 ## Contributing
 Please submit a pull request or issue if you would like to add any websites to this list. If you think a website was incorrectly added, please create an issue.
 
+New domains should be added to `source.toml`. Running the `generate.py` script (requires Python 3.11+) will then read that source file and generate an updated `uBlacklist.txt` file.
+
 ## Related Projects
 [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) by laylavish
 > A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.

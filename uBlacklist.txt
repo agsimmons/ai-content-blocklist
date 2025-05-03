@@ -1,25 +1,28 @@
 ---
 name: AI Content Blocklist
 homepage: https://github.com/agsimmons/ai-content-blocklist
+last_updated: 2025-05-03T17:42:23.563553+00:00
 ---
 
-# These are all created by the same entity
+*://accountinginsights.org/*
+
 *://devcodef1.com/*
+
 *://economatik.com/*
-*://onexception.dev/*
-*://trycatchdebug.net/*
 
 *://gbtimes.com/*
 
 *://glossykitchen.com/*
 
+*://ittrip.xyz/*
+*://*.ittrip.xyz/*
+
+*://onexception.dev/*
+
 *://www.ricearray.org/*
-
-*://accountinginsights.org/*
-
-*://thetechylife.com/*
 
 *://techrebooter.com/*
 
-*://ittrip.xyz/*
-*://*.ittrip.xyz/*
+*://thetechylife.com/*
+
+*://trycatchdebug.net/*

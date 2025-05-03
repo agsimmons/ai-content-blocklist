@@ -1,0 +1,35 @@
+[[domains]]
+domain_name = "accountinginsights.org"
+
+[[domains]]
+domain_name = "devcodef1.com"
+
+[[domains]]
+domain_name = "economatik.com"
+
+[[domains]]
+domain_name = "gbtimes.com"
+
+[[domains]]
+domain_name = "glossykitchen.com"
+
+[[domains]]
+domain_name = "ittrip.xyz"
+subdomains = ["*"]
+
+[[domains]]
+domain_name = "onexception.dev"
+
+[[domains]]
+domain_name = "ricearray.org"
+subdomains = ["www"]
+include_base_domain = false
+
+[[domains]]
+domain_name = "techrebooter.com"
+
+[[domains]]
+domain_name = "thetechylife.com"
+
+[[domains]]
+domain_name = "trycatchdebug.net"
