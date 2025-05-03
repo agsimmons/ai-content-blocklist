@@ -4,22 +4,22 @@ homepage: https://github.com/agsimmons/ai-content-blocklist
 ---
 
 # These are all created by the same entity
-*://devcodef1.com/
-*://economatik.com/
-*://onexception.dev/
-*://trycatchdebug.net/
+*://devcodef1.com/*
+*://economatik.com/*
+*://onexception.dev/*
+*://trycatchdebug.net/*
 
-*://gbtimes.com/
+*://gbtimes.com/*
 
-*://glossykitchen.com/
+*://glossykitchen.com/*
 
-*://www.ricearray.org/
+*://www.ricearray.org/*
 
-*://accountinginsights.org/
+*://accountinginsights.org/*
 
-*://thetechylife.com/
+*://thetechylife.com/*
 
-*://techrebooter.com/
+*://techrebooter.com/*
 
-*://ittrip.xyz/
-*://*.ittrip.xyz/
+*://ittrip.xyz/*
+*://*.ittrip.xyz/*
