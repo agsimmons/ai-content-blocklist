@@ -1,7 +1,7 @@
 ---
 name: AI Content Blocklist
 homepage: https://github.com/agsimmons/ai-content-blocklist
-last_updated: 2025-05-06T20:42:13.688085+00:00
+last_updated: 2025-05-07T16:56:34.277175+00:00
 ---
 
 *://accountinginsights.org/*
@@ -24,6 +24,8 @@ last_updated: 2025-05-06T20:42:13.688085+00:00
 *://www.ricearray.org/*
 
 *://www.slingacademy.com/*
+
+*://tecadmin.net/*
 
 *://techrebooter.com/*
 

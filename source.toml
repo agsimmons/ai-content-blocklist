@@ -36,6 +36,9 @@ subdomains = ["www"]
 include_base_domain = false
 
 [[domains]]
+domain_name = "tecadmin.net"
+
+[[domains]]
 domain_name = "techrebooter.com"
 
 [[domains]]
