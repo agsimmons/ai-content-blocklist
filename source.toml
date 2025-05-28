@@ -32,6 +32,9 @@ subdomains = ["www"]
 include_base_domain = false
 
 [[domains]]
+domain_name = "shungrill.com"
+
+[[domains]]
 domain_name = "slingacademy.com"
 subdomains = ["www"]
 include_base_domain = false
