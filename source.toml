@@ -30,6 +30,9 @@ domain_name = "ittrip.xyz"
 subdomains = ["*"]
 
 [[domains]]
+domain_name = "kitchensnitches.com"
+
+[[domains]]
 domain_name = "onexception.dev"
 
 [[domains]]
