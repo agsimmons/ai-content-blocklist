@@ -1,7 +1,7 @@
 ---
 name: AI Content Blocklist
 homepage: https://github.com/agsimmons/ai-content-blocklist
-last_updated: 2025-05-28T13:01:26.709643+00:00
+last_updated: 2025-06-11T12:59:27.225398+00:00
 ---
 
 *://accountinginsights.org/*
@@ -19,6 +19,8 @@ last_updated: 2025-05-28T13:01:26.709643+00:00
 *://gbtimes.com/*
 
 *://glossykitchen.com/*
+
+*://homediningkitchen.com/*
 
 *://ittrip.xyz/*
 *://*.ittrip.xyz/*

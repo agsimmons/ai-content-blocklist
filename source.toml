@@ -23,6 +23,9 @@ domain_name = "gbtimes.com"
 domain_name = "glossykitchen.com"
 
 [[domains]]
+domain_name = "homediningkitchen.com"
+
+[[domains]]
 domain_name = "ittrip.xyz"
 subdomains = ["*"]
 
