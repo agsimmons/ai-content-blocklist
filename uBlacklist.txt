@@ -1,10 +1,12 @@
 ---
 name: AI Content Blocklist
 homepage: https://github.com/agsimmons/ai-content-blocklist
-last_updated: 2025-06-11T13:34:39.299648+00:00
+last_updated: 2025-06-16T12:59:42.966593+00:00
 ---
 
 *://accountinginsights.org/*
+
+*://amycookseats.com/*
 
 *://audiochamps.com/*
 
@@ -13,6 +15,8 @@ last_updated: 2025-06-11T13:34:39.299648+00:00
 *://devcodef1.com/*
 
 *://easytechsolver.com/*
+
+*://eatinghealthyplan.com/*
 
 *://economatik.com/*
 
@@ -40,6 +44,8 @@ last_updated: 2025-06-11T13:34:39.299648+00:00
 *://tecadmin.net/*
 
 *://techrebooter.com/*
+
+*://thekitchentoday.com/*
 
 *://thetechylife.com/*
 
