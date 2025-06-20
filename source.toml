@@ -73,3 +73,8 @@ domain_name = "thetechylife.com"
 
 [[domains]]
 domain_name = "trycatchdebug.net"
+
+[[domains]]
+domain_name = "webdevtutor.net"
+subdomains = ["www"]
+include_base_domain = false
