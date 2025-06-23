@@ -1,4 +1,5 @@
 import tomllib
+import dataclasses
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
@@ -12,6 +13,7 @@ DEST_FILE = Path("uBlacklist.txt")
 class DomainEntry:
     domain_name: str
     subdomains: list[str] | None = None
+    paths: list[str] = dataclasses.field(default_factory=(lambda: ["*"]))
     include_base_domain: bool = True
 
 
@@ -40,8 +42,10 @@ last_updated: {last_updated.isoformat()}
         f.write("\n")
 
         if domain_entry.include_base_domain:
-            f.write(f"*://{domain_entry.domain_name}/*\n")
+            for path in domain_entry.paths:
+                f.write(f"*://{domain_entry.domain_name}/{path}\n")
 
         if domain_entry.subdomains is not None:
             for subdomain in sorted(domain_entry.subdomains):
-                f.write(f"*://{subdomain}.{domain_entry.domain_name}/*\n")
+                for path in domain_entry.paths:
+                    f.write(f"*://{subdomain}.{domain_entry.domain_name}/{path}\n")
