@@ -47,6 +47,12 @@ subdomains = ["www"]
 include_base_domain = false
 
 [[domains]]
+domain_name = "shecodes.io"
+subdomains = ["www"]
+paths = ["athena/*"]
+include_base_domain = false
+
+[[domains]]
 domain_name = "shungrill.com"
 
 [[domains]]
