@@ -1,4 +1,9 @@
 [[domains]]
+domain_name = "3dprintbeast.com"
+subdomains = ["www"]
+include_base_domain = false
+
+[[domains]]
 domain_name = "accountinginsights.org"
 
 [[domains]]
