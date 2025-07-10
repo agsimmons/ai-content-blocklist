@@ -86,6 +86,9 @@ domain_name = "thetechylife.com"
 domain_name = "trycatchdebug.net"
 
 [[domains]]
+domain_name = "umatechnology.org"
+
+[[domains]]
 domain_name = "webdevtutor.net"
 subdomains = ["www"]
 include_base_domain = false
