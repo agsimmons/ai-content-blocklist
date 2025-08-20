@@ -1,7 +1,7 @@
 ---
 name: AI Content Blocklist
 homepage: https://github.com/agsimmons/ai-content-blocklist
-last_updated: 2025-07-28T20:40:18.539103+00:00
+last_updated: 2025-08-20T14:38:02.798425+00:00
 ---
 
 *://www.3dprintbeast.com/*
@@ -36,6 +36,12 @@ last_updated: 2025-07-28T20:40:18.539103+00:00
 *://www.khueapps.com/*
 
 *://kitchensnitches.com/*
+
+*://lykelect.com/*
+*://www.lykelect.com/*
+
+*://lykeshares.com/*
+*://www.lykeshares.com/*
 
 *://onexception.dev/*
 

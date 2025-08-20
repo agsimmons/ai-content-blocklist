@@ -47,6 +47,14 @@ subdomains = ["*"]
 domain_name = "kitchensnitches.com"
 
 [[domains]]
+domain_name = "lykelect.com"
+subdomains = ["www"]
+
+[[domains]]
+domain_name = "lykeshares.com"
+subdomains = ["www"]
+
+[[domains]]
 domain_name = "onexception.dev"
 
 [[domains]]
