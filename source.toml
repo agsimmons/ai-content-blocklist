@@ -106,3 +106,8 @@ domain_name = "umatechnology.org"
 domain_name = "webdevtutor.net"
 subdomains = ["www"]
 include_base_domain = false
+
+[[domains]]
+domain_name = "xjavascript.com"
+subdomains = ["www"]
+include_base_domain = false
