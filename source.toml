@@ -55,6 +55,9 @@ domain_name = "lykeshares.com"
 subdomains = ["www"]
 
 [[domains]]
+domain_name = "nginxtutorials.com"
+
+[[domains]]
 domain_name = "onexception.dev"
 
 [[domains]]
