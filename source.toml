@@ -103,6 +103,9 @@ domain_name = "tecadmin.net"
 domain_name = "techrebooter.com"
 
 [[domains]]
+domain_name = "thecookingfacts.com"
+
+[[domains]]
 domain_name = "thekitchentoday.com"
 
 [[domains]]
