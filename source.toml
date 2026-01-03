@@ -97,6 +97,11 @@ subdomains = ["www"]
 include_base_domain = false
 
 [[domains]]
+domain_name = "pythontutorials.net"
+subdomains = ["www"]
+include_base_domain = false
+
+[[domains]]
 domain_name = "tecadmin.net"
 
 [[domains]]
