@@ -56,6 +56,9 @@ subdomains = ["*"]
 domain_name = "kitchensnitches.com"
 
 [[domains]]
+domain_name = "linuxvox.com"
+
+[[domains]]
 domain_name = "lykelect.com"
 subdomains = ["www"]
 
