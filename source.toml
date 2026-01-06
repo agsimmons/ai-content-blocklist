@@ -28,6 +28,11 @@ domain_name = "cookingupdate.com"
 domain_name = "devcodef1.com"
 
 [[domains]]
+domain_name = "devtutorial.io"
+subdomains = ["www"]
+include_base_domain = false
+
+[[domains]]
 domain_name = "easytechsolver.com"
 
 [[domains]]
