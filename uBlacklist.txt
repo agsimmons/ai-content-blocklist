@@ -1,7 +1,7 @@
 ---
 name: AI Content Blocklist
 homepage: https://github.com/agsimmons/ai-content-blocklist
-last_updated: 2026-01-06T17:46:11.366059+00:00
+last_updated: 2026-01-08T19:36:01.566433+00:00
 ---
 
 *://www.3dprintbeast.com/*
@@ -13,6 +13,8 @@ last_updated: 2026-01-06T17:46:11.366059+00:00
 *://audiochamps.com/*
 
 *://bytegoblin.io/*
+
+*://www.codestudy.net/*
 
 *://codezup.com/*
 

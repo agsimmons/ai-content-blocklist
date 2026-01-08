@@ -19,6 +19,11 @@ domain_name = "amycookseats.com"
 domain_name = "bytegoblin.io"
 
 [[domains]]
+domain_name = "codestudy.net"
+subdomains = ["www"]
+include_base_domain = false
+
+[[domains]]
 domain_name = "codezup.com"
 
 [[domains]]
