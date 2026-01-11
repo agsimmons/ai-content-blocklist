@@ -83,6 +83,9 @@ domain_name = "nginxtutorials.com"
 domain_name = "onexception.dev"
 
 [[domains]]
+domain_name = "phb-crystal-ball.org"
+
+[[domains]]
 domain_name = "ricearray.org"
 subdomains = ["www"]
 include_base_domain = false
