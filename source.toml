@@ -63,6 +63,10 @@ domain_name = "ittrip.xyz"
 subdomains = ["*"]
 
 [[domains]]
+domain_name = "izoate.com"
+subdomains = ["www"]
+
+[[domains]]
 domain_name = "kitchensnitches.com"
 
 [[domains]]
