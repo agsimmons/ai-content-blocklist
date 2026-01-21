@@ -7,6 +7,9 @@ include_base_domain = false
 domain_name = "accountinginsights.org"
 
 [[domains]]
+domain_name = "ahelpme.com"
+
+[[domains]]
 domain_name = "useful.codes"
 
 [[domains]]
