@@ -87,6 +87,9 @@ subdomains = ["www"]
 domain_name = "nginxtutorials.com"
 
 [[domains]]
+domain_name = "nulldog.com"
+
+[[domains]]
 domain_name = "onexception.dev"
 
 [[domains]]
