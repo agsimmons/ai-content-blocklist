@@ -47,6 +47,11 @@ domain_name = "easytechsolver.com"
 domain_name = "eatinghealthyplan.com"
 
 [[domains]]
+domain_name = "flyriver.com"
+subdomains = ["www"]
+include_base_domain = false
+
+[[domains]]
 domain_name = "economatik.com"
 
 [[domains]]

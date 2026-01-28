@@ -1,7 +1,7 @@
 ---
 name: AI Content Blocklist
 homepage: https://github.com/agsimmons/ai-content-blocklist
-last_updated: 2026-01-27T20:18:50.091450+00:00
+last_updated: 2026-01-28T21:22:52.354445+00:00
 ---
 
 *://www.3dprintbeast.com/*
@@ -31,6 +31,8 @@ last_updated: 2026-01-27T20:18:50.091450+00:00
 *://eatinghealthyplan.com/*
 
 *://economatik.com/*
+
+*://www.flyriver.com/*
 
 *://gbtimes.com/*
 
