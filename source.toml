@@ -44,6 +44,12 @@ subdomains = ["www"]
 include_base_domain = false
 
 [[domains]]
+domain_name = "django.wiki"
+
+[[domains]]
+domain_name = "dnmtechs.com"
+
+[[domains]]
 domain_name = "easytechsolver.com"
 
 [[domains]]
@@ -65,6 +71,9 @@ domain_name = "generalistprogrammer.com"
 
 [[domains]]
 domain_name = "glossykitchen.com"
+
+[[domains]]
+domain_name = "hatchjs.com"
 
 [[domains]]
 domain_name = "homediningkitchen.com"
@@ -95,6 +104,9 @@ domain_name = "lykeshares.com"
 subdomains = ["www"]
 
 [[domains]]
+domain_name = "moldstud.com"
+
+[[domains]]
 domain_name = "nginxtutorials.com"
 
 [[domains]]
@@ -112,6 +124,11 @@ subdomains = ["www"]
 include_base_domain = false
 
 [[domains]]
+domain_name = "rustcodeweb.com"
+subdomains = ["www"]
+include_base_domain = false
+
+[[domains]]
 domain_name = "shecodes.io"
 subdomains = ["www"]
 paths = ["athena/*"]
@@ -124,6 +141,9 @@ domain_name = "shungrill.com"
 domain_name = "slingacademy.com"
 subdomains = ["www"]
 include_base_domain = false
+
+[[domains]]
+domain_name = "sqlpey.com"
 
 [[domains]]
 domain_name = "studygyaan.com"

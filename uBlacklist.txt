@@ -1,7 +1,7 @@
 ---
 name: AI Content Blocklist
 homepage: https://github.com/agsimmons/ai-content-blocklist
-last_updated: 2026-02-19T16:30:45.100291+00:00
+last_updated: 2026-05-03T12:49:12.063303+00:00
 ---
 
 *://www.3dprintbeast.com/*
@@ -28,6 +28,10 @@ last_updated: 2026-02-19T16:30:45.100291+00:00
 
 *://www.devtutorial.io/*
 
+*://django.wiki/*
+
+*://dnmtechs.com/*
+
 *://easytechsolver.com/*
 
 *://eatinghealthyplan.com/*
@@ -41,6 +45,8 @@ last_updated: 2026-02-19T16:30:45.100291+00:00
 *://generalistprogrammer.com/*
 
 *://glossykitchen.com/*
+
+*://hatchjs.com/*
 
 *://homediningkitchen.com/*
 
@@ -64,6 +70,8 @@ last_updated: 2026-02-19T16:30:45.100291+00:00
 *://lykeshares.com/*
 *://www.lykeshares.com/*
 
+*://moldstud.com/*
+
 *://nginxtutorials.com/*
 
 *://nulldog.com/*
@@ -76,11 +84,15 @@ last_updated: 2026-02-19T16:30:45.100291+00:00
 
 *://www.ricearray.org/*
 
+*://www.rustcodeweb.com/*
+
 *://www.shecodes.io/athena/*
 
 *://shungrill.com/*
 
 *://www.slingacademy.com/*
+
+*://sqlpey.com/*
 
 *://studygyaan.com/*
 
